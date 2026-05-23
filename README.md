@@ -13,10 +13,10 @@
 <div align="center">
 
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Portfolio Website](https://github.com/Col2609/portfolio) | Website portfolio cá nhân | Figma, CSS |
-| [Schedule Widget](https://github.com/Col2609/schedule-widget) | Desktop widget hiển thị lịch học theo ngày/tuần/tháng | Electron, NodeJS |
+| Project | Description | Tech | Figma |
+|---------|-------------|------|-------|
+| [Portfolio Website](https://github.com/Col2609/portfolio) | Website portfolio cá nhân | Figma, CSS ||
+| [Schedule Widget](https://github.com/Col2609/schedule-widget) | Desktop widget hiển thị lịch học theo ngày/tuần/tháng | Electron, NodeJS |[Figma Link](https://www.figma.com/design/zw13wRUXOSPIogFZ2g5Zfv/Scheduled-UTH?node-id=0-1&t=hYUnWMOC5TsoloIN-1) |
 
 </div>
 
