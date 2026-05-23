@@ -8,6 +8,55 @@
 </div>
 
 ---
+<div align="center">
+
+<table cellpadding="16">
+<tr>
+
+<td width="48%" valign="top">
+
+## 📅 Schedule Widget
+
+Desktop widget hiển thị lịch học theo:
+- Tháng
+- Tuần
+- Ngày
+
+### ⚡ Features
+- Auto sync lịch học
+- Widget desktop nhỏ gọn
+- UI tối giản
+
+![Electron](https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=electron&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+[🔗 Repository](https://github.com/Col2609/schedule-widget)
+
+</td>
+
+<td width="48%" valign="top">
+
+## 🌐 Portfolio Website
+
+Website portfolio cá nhân responsive.
+
+### ⚡ Features
+- Modern UI
+- Responsive layout
+- Animated components
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+[🔗 Repository](https://github.com/Col2609/portfolio)
+
+</td>
+
+</tr>
+</table>
+
+</div>
+---
 # 💻 Tech Stack:
 <div align="center">
 
